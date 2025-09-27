@@ -96,8 +96,16 @@ footer {
     text-align: center;
 }
 @media (max-width: 1800px){
+    header nav ul li {
+        padding-right: 1%;
+    }
+}
+@media (max-width: 1800px){
     .ccx {
         text-align: right   ;
+    }
+    header nav ul li {
+        padding-right: 0%;
     }
     .cxz {
         text-decoration: overline underline;
@@ -282,4 +290,5 @@ footer {
         font-size: 15px;
     }
 }
+
 

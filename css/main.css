@@ -96,17 +96,15 @@ footer {
     text-align: center;
 }
 @media (max-width: 1800px){
-    header nav ul li {
-        padding-right: 1%;
+    header nav ul {
+        wight: 96%;
     }
 }
 @media (max-width: 1800px){
     .ccx {
         text-align: right   ;
     }
-    header nav ul li {
-        padding-right: 0%;
-    }
+
     .cxz {
         text-decoration: overline underline;
         text-decoration-color: rgb(88, 15, 156);
@@ -290,5 +288,6 @@ footer {
         font-size: 15px;
     }
 }
+
 
 

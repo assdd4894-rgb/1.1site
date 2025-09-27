@@ -95,7 +95,7 @@ footer {
     padding-bottom: 2%;
     text-align: center;
 }
-@media (max-width: 1800px){
+@media (max-width: 4000px){
     header nav ul {
         wight: 96%;
     }
@@ -288,6 +288,7 @@ footer {
         font-size: 15px;
     }
 }
+
 
 
 
